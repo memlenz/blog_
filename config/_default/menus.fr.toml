@@ -30,10 +30,10 @@
   pageRef = "portfolio"
   weight = 2
 
-[[main]]
-  name = "Ressources"
-  pageRef = "ressources"
-  weight = 5
+#[[main]]
+#  name = "Ressources"
+#  pageRef = "ressources"
+#  weight = 5
 
 #[[main]]
 #  name = "Blog"
