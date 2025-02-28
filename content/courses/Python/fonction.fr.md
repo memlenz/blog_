@@ -8,7 +8,6 @@ tags: ["Python", "Fonctions"]
 categories: ["Cours Python"]
 ---
 
-
 **Les Fonctions en Python : La Clé de l'Efficacité**
 
 Tu veux rendre ton code plus propre, plus modulaire, et surtout réutilisable sans avoir à tout réécrire à chaque fois ? Les **fonctions** sont là pour ça. Elles te permettent de regrouper un ensemble d'instructions sous un seul nom, que tu peux ensuite appeler à tout moment dans ton code, en y passant des paramètres, et en récupérant des résultats.

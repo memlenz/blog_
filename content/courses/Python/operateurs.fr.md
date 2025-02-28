@@ -9,6 +9,7 @@ categories: ["Cours Python"]
 ---
 
 
+
 En Python, les opérateurs sont des outils essentiels. Ils sont la base pour effectuer des calculs, manipuler des données et prendre des décisions dans ton code. Qu'il s'agisse d'additionner des nombres, de comparer des valeurs, ou de combiner des expressions logiques, tu vas constamment utiliser des opérateurs. Mais attention, ils ne sont pas tous les mêmes ! Python te donne tout un arsenal d’opérateurs pour accomplir différents types d'actions, et comprendre comment ils fonctionnent est indispensable pour bien programmer.
 
 Dans cet article, on plonge dans les différents types d'opérateurs en Python et comment les utiliser pour rendre ton code à la fois propre et puissant.

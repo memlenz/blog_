@@ -8,7 +8,6 @@ tags: ["Python", "Nombres"]
 categories: ["Cours Python"]
 ---
 
-
 **Les Nombres en Python : De l'Intégrale à la Décimale**
 
 Les nombres sont, sans surprise, l'une des pierres angulaires de la programmation. Et en Python, c'est un terrain de jeu assez large que tu vas découvrir. Que tu manipules des entiers pour compter des objets ou des flottants pour des calculs de précision, Python te fournit tout un arsenal pour travailler avec des chiffres de manière fluide et intuitive. Dans cet article, on plonge dans les différentes facettes des nombres en Python, avec des exemples concrets et quelques astuces qui te faciliteront la vie.

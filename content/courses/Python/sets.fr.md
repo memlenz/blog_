@@ -8,7 +8,6 @@ tags: ["Python", "sets"]
 categories: ["Cours Python"]
 ---
 
-
 Tu cherches à stocker des éléments sans te prendre la tête avec des doublons ? Les **sets** en Python sont là pour ça. Ces collections sont super utiles lorsque tu veux garantir que chaque élément dans ta collection soit unique. En plus, ils offrent une vitesse de recherche et de suppression ultra rapide. Bref, si tu veux de la simplicité et de l'efficacité, les sets devraient rapidement devenir tes alliés dans ton code Python.
 
 Dans cet article, on va explorer ensemble ce qu’est un set, comment le manipuler, et pourquoi tu devrais les intégrer à ton arsenal. Pas besoin de se casser la tête, c’est simple, puissant et rapide.

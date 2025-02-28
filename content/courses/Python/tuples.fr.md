@@ -9,7 +9,6 @@ categories: ["Cours Python"]
 description: "Manipulation des collections inaltérables"
 ---
 
-
 **Les Tuples en Python : Les Collections Inaltérables**
 
 Tu cherches une structure de données rapide, simple et **inaltérable** pour stocker des informations ? Le **tuple** en Python est ce qu'il te faut ! Un peu comme une liste, mais en version solide. Une fois créé, tu ne peux pas le modifier — ce qui le rend encore plus fiable quand tu as besoin d'une collection dont tu es sûr qu'elle ne changera jamais.

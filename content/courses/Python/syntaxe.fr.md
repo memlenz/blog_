@@ -9,7 +9,6 @@ categories: ["Cours Python"]
 series_order: 1
 ---
 
-
 Lorsque tu te lances dans la programmation Python, l'une des premières choses que tu remarqueras, c’est à quel point la syntaxe du langage est simple et épurée. C’est un peu comme une respiration dans un océan de langages parfois trop verbeux. Dans cet article, on va décortiquer ensemble les bases de la syntaxe Python, en te donnant des clés pour écrire du code propre, lisible, et qui roule sans accroc.
 
 ### 1. **Les Bases de la Syntaxe Python : L’Indentation**

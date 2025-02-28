@@ -9,7 +9,6 @@ categories: ["Cours Python"]
 
 ---
 
-
 Dans le monde de la programmation, les variables sont des outils essentiels pour stocker et manipuler des données. En Python, elles sont particulièrement flexibles et faciles à utiliser, ce qui les rend idéales pour les développeurs débutants tout en étant assez puissantes pour les utilisateurs avancés. Dans cet article, on va faire un tour d’horizon des variables en Python, en démystifiant leur fonctionnement et leur utilité à travers des exemples pratiques.
 
 ### Qu'est-ce qu'une variable ?

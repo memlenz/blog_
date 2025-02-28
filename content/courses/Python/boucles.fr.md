@@ -8,7 +8,6 @@ tags: ["Python", "for", "while"]
 categories: ["Cours Python"]
 ---
 
-
 **Les Structures de Boucles en Python : Reprends le Contrôle de ton Code**
 
 Quand tu veux que ton programme répète une série d’actions plusieurs fois sans avoir à tout coder à la main, les boucles sont ton meilleur ami. En Python, elles sont simples à comprendre et te permettent de faire des actions répétitives de manière efficace et élégante.

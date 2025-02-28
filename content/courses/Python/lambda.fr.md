@@ -8,7 +8,6 @@ tags: ["Python", "Lambda"]
 categories: ["Cours Python"]
 ---
 
-
 **Les Fonctions Lambda en Python : Des Fonctions Ultra-Compactes**
 
 Si tu es déjà familiarisé avec les fonctions classiques en Python, tu sais qu'elles peuvent parfois être un peu longues à écrire pour des tâches simples. C’est là que **les fonctions lambda** entrent en scène pour te simplifier la vie. Elles te permettent de créer des fonctions anonymes, en une seule ligne, super efficaces et parfaites pour les cas où tu n’as pas besoin de nommer ta fonction.

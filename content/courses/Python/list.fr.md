@@ -8,6 +8,7 @@ tags: ["Python", "Listes"]
 categories: ["Cours Python"]
 ---
 
+
 Tu veux stocker plusieurs valeurs dans une seule variable sans te prendre la tête avec des déclarations interminables ? Les listes en Python sont la solution idéale. C'est un peu comme un panier où tu peux jeter tous tes éléments — des nombres, des chaînes de caractères, ou même d'autres listes — et les récupérer à tout moment pour les manipuler.
 
 Dans cet article, on va plonger dans le monde des **listes**, un des types de données les plus flexibles et puissants en Python. On va voir comment les utiliser pour manipuler tes données efficacement et donner de la structure à ton code. Alors, laisse-toi embarquer dans cet univers de collections !

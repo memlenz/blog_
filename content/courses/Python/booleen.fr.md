@@ -82,7 +82,6 @@ if not a:
 else:
     print("C'est vrai.")
 ```
-
 Le `not` inverse la valeur de `a`. Si `a` est vrai, alors `not a` devient faux, et vice versa.
 
 ### 4. **Les Comparaisons et les Booléens**

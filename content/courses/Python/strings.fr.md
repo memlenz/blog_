@@ -10,6 +10,7 @@ series_order: 3
 ---
 
 
+
 Les strings, ou chaînes de caractères, sont l'un des types de données les plus utilisés en Python. Que ce soit pour manipuler des données d'entrée utilisateur, traiter des fichiers texte ou encore générer du contenu dynamique, les chaînes de caractères sont partout. Mais comment les utiliser efficacement et tirer le meilleur parti de leurs fonctionnalités ? C’est ce qu'on va explorer ici, avec un petit détour par les bonnes pratiques.
 
 #### 1. Qu'est-ce qu'un String en Python ?

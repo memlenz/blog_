@@ -9,7 +9,6 @@ description: "Découvrez ce qu'est Python, ses caractéristiques et comment l'in
 series_order: 0
 ---
 
-### **Introduction à Python**  
 
 #### **1. Qu'est-ce que Python ?**  
 Python est un **langage de programmation de haut niveau** connu pour sa **simplicité** et sa **lisibilité**. Il est utilisé dans de nombreux domaines :  

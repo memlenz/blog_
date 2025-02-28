@@ -8,7 +8,6 @@ tags: ["python", "type de donnée"]
 categories: ["Cours Python"]
 ---
 
-
 Quand tu débutes en Python, l'un des concepts essentiels à comprendre, c'est celui des types de données. Chaque valeur que tu manipules en Python appartient à un type spécifique. Ces types déterminent non seulement ce que tu peux faire avec les données, mais aussi la manière dont elles sont stockées et manipulées en mémoire. Dans cet article, on va explorer les types de données les plus utilisés en Python, en décryptant leur fonctionnement et leurs applications avec des exemples concrets.
 
 ### 1. **Les Types Numériques : Entiers et Flottants**
