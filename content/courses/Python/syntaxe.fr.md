@@ -23,7 +23,7 @@ def saluer():
     print("Comment ça va ?")
 ```
 
-Ici, les deux `print()` sont indents pour indiquer qu'ils font partie du bloc de la fonction `saluer()`. Si tu oublies de les indenter, tu vas avoir une erreur.
+Ici, les deux `print()` sont indentés pour indiquer qu'ils font partie du bloc de la fonction `saluer()`. Si tu oublies de les indenter, tu vas avoir une erreur.
 
 ### 2. **Les Variables et l’Assignation**
 
@@ -38,7 +38,7 @@ Tu remarqueras que pas besoin de spécifier le type de la variable (int, str, et
 
 ### 3. **Les Structures de Contrôle : If, Elif et Else**
 
-Les structures de contrôle en Python sont classiques, mais avec une petite touche de Pythonic. Prenons l'exemple du célèbre `if` :
+Les structures de contrôle en Python sont classiques. Prenons l'exemple du célèbre `if` :
 
 ```python
 age = 18
@@ -104,7 +104,7 @@ print(resultat)  # Résultat : 8
 
 Les fonctions en Python sont également flexibles : tu peux passer des arguments par défaut, des arguments variadiques, et même renvoyer plusieurs valeurs.
 
-### 6. **Les Listes : Une Syntaxe Très Pythonic**
+### 6. **Les Listes **
 
 Les listes en Python sont super puissantes. Tu peux les créer en utilisant des crochets `[]` et y ajouter des éléments de manière dynamique. Exemple :
 
@@ -114,8 +114,7 @@ nombres.append(4)  # Ajoute un élément à la fin
 print(nombres)  # Résultat : [1, 2, 3, 4]
 ```
 
-Tu peux aussi manipuler les listes avec des compréhensions de liste, ce qui est une fonctionnalité très "Pythonic" et élégante.
-
+Tu peux aussi manipuler les listes avec facilité.
 ```python
 carres = [x**2 for x in range(5)]
 print(carres)  # Résultat : [0, 1, 4, 9, 16]
