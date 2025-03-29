@@ -1,8 +1,8 @@
 ---
-date: '2025-02-26T14:28:48+01:00'
+date: '2025-03-04T02:08:32+01:00'
 draft: false
 author: "Ayédoun Châ-Fine ADEBI"
-title: 'What Is Python'
+title: 'Try Except'
 description: ""
 series_order: 0
 ---

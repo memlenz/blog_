@@ -1,29 +1,23 @@
 ---
-date: '2025-02-15T02:54:28+01:00'
+date: "2025-02-15T13:39:39+01:00"
 draft: false
 author: "Ayédoun Châ-Fine ADEBI"
-title: 'Blog'
-description: "Explorations techniques, optimisations et réflexions sur le développement et les systèmes Linux."
-series_order: 0
+title: "Langage"
+description: ""
+tags:
+  - C++
+  - python
+  - java
+categories:
+  -
 ---
 
-# 🖥️ Welcome to the Memlenz Blog  
+Dans ce coin du blog, nous allons plonger dans l'univers fascinant des
+langages de programmation.
+Découvrez les dernières tendances, les meilleures pratiques et les
+secrets des langages tels que :
+Python, Java, JavaScript et bien d'autres.
+Que vous soyez débutant ou expert, cette section est faite pour vous aider à améliorer
+vos compétences en programmation et à rester à jour avec les dernières
+évolutions du monde de la technologie.
 
-## 🛠️ What You'll Find Here  
-
-This blog is a space where I document my journey in **Linux, web development, DevOps, and algorithm mastery**. Whether you're a beginner looking for structured learning or an experienced developer searching for optimizations, you'll find valuable insights here.  
-
-### 🔹 **Topics Covered:**  
-- Deep dives into **Linux** and advanced system configurations  
-- Web development tricks, tips, and best practices  
-- **DevOps workflows** and automation techniques  
-- **Data Structures & Algorithms (DSA)** to sharpen problem-solving skills  
-- Personal **experiments, projects, and discoveries**  
-
-## 🚀 Why This Blog?  
-
-I believe that **learning is a continuous process**, and sharing knowledge makes the journey even better. This blog is a mix of structured tutorials, experiments, and insights to help developers navigate the tech landscape efficiently.  
-
-💡 **Stay curious, keep exploring, and let’s push the limits of technology together!**  
-
-🔥 **Check out the latest articles below!**  
