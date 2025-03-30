@@ -2,9 +2,10 @@
 date: "2025-03-26T21:29:56+01:00"
 draft: false
 author: "Ayédoun Châ-Fine ADEBI"
-title: "📝 Bagels : Un jeu de déduction logique en python"
-description: "Découvrez comment implémenter Bagels, un jeu de puzzle mathématique inspiré de Mastermind, en Python. Tutoriel pas-à-pas avec gestion des indices (Pico/Fermi/Bagels) et code optimisé."
-categories: ["TP Python"]
+title: "🎯 Implémentation du jeu Bagels en Python : Un défi de déduction logique"
+description: "Découvrez comment coder Bagels, un jeu de logique inspiré de Mastermind, en Python. Un tutoriel détaillé avec explication du gameplay, gestion des indices (Pico/Fermi/Bagels) et optimisation du code."
+categories: ["Projets Python", "Jeux et Algorithmes"]
+tags: ["Python", "Jeu", "Algorithmie", "Logique"]
 ---
 
 # 🎮 Bagels – A Logic Game in Python
