@@ -18,9 +18,8 @@ Memlenz est un espace où **le code rencontre l'efficacité**. Ici, je documente
 - **Vitrines de Projets** – Un portfolio de mes expériences et réalisations.
 - **Parcours d'Apprentissage DSA** – Apprentissage structuré pour de meilleures habitudes de codage.
 
-> _"Le code est comme une lentille—le focus définit la clarté."_
+> _"Le code est comme une lentille le focus définit la clarté."_
 
 ### **🚀 Prêt à explorer ?**
 
 Construisons, décomposons et optimisons. 🖥️
-

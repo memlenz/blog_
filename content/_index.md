@@ -18,9 +18,8 @@ Memlenz is a space where **code meets efficiency**. Here, I document my journey 
 - **Project Showcases** – A portfolio of my experiments and builds.
 - **DSA Learning Path** – Structured learning for better coding habits.
 
-> _"Code is like a lens—focus defines clarity."_
+> _"Code is like a lens focus defines clarity."_
 
 ### **🚀 Ready to Explore?**
 
 Let’s build, break, and optimize. 🖥️
-
