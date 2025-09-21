@@ -6,6 +6,8 @@ title: 'Les fonctions lambda en Python'
 description: "Manipuler les fonctions lambda en Python"
 tags: ["Python", "Lambda"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 16
 ---
 
 **Les Fonctions Lambda en Python : Des Fonctions Ultra-Compactes**

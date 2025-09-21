@@ -6,6 +6,8 @@ title: 'Les list en Python'
 description: "manipuler les collections avec Python"
 tags: ["Python", "Listes"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 9
 ---
 
 

@@ -6,6 +6,8 @@ title: 'La portee en Python'
 description: "Comprendre et maîtriser la portée en Python"
 tags: ["Python", "Portée"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 21
 ---
 
 

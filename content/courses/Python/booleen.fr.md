@@ -6,6 +6,8 @@ title: 'Les booleen en Python'
 description: "Manipulation des booléens en Python"
 tags: ["Python", "Booléen"]
 categories: ['Cours Python']
+series: ["Apprendre Python"]
+series_order: 7
 ---
 
 

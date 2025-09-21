@@ -6,6 +6,9 @@ title: 'Les Classes en Python'
 description: "Comprendre les classes et objets en Python"
 tags: ["Python", "Classes", "Objets"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series: ["Apprendre Python"]
+series_order: 18
 ---
 
 

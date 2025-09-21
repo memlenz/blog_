@@ -6,6 +6,8 @@ title: 'Les structures conditionnelles avec Python'
 description: "Prendre des décisions en Python grâce aux structures conditionnelles"
 tags: ["Python", "Conditions", "if", "else", "elif"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 13
 ---
 
 Si la programmation était une histoire, les structures conditionnelles seraient les moments où l'intrigue prend un tournant. Tu sais, ces points où ton programme doit choisir quel chemin emprunter. **Les structures conditionnelles** te permettent de dire à ton code : "Si cette condition est vraie, fais ça, sinon fais autre chose." C’est un peu comme dans la vraie vie, où tu choisis une action en fonction de ce qui se passe autour de toi.

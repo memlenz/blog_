@@ -6,6 +6,8 @@ title: 'Les dictionnaires en Python'
 description: "Manipuler les données de manière organisée grâce aux dictionnaires en Python"
 tags: ["Python", "Dictionnaires"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 12
 ---
 
 Tu veux stocker des données sous forme de paires clé-valeur, comme une sorte de carnet où chaque information est associée à un identifiant unique ? Les **dictionnaires** en Python sont faits pour toi. Imagine un annuaire téléphonique où chaque nom est lié à un numéro, ou une base de données où chaque identifiant est lié à des informations spécifiques. C’est exactement ce que fait un dictionnaire, mais en bien plus flexible et puissant.

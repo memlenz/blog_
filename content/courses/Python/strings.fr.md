@@ -6,7 +6,8 @@ title: "Les Strings en Python"
 tags: ["python", "chaînes"]
 categories: ["Cours Python"]
 description: "Manipulez les chaînes de caractères en Python."
-series_order: 3
+series: ["Apprendre Python"]
+series_order: 6
 ---
 
 

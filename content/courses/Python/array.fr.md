@@ -6,6 +6,8 @@ title: 'Les array en Python'
 description: "Maîtriser les arrays Python"
 tags: ["Python", "Array"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 17
 ---
 
 

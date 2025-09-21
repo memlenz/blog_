@@ -6,6 +6,8 @@ title: 'Les nombres en Python'
 description: "Manipulez les nombres en Python, de l'Intégrale à la décimale"
 tags: ["Python", "Nombres"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 4
 ---
 
 **Les Nombres en Python : De l'Intégrale à la Décimale**

@@ -7,6 +7,8 @@ description: ""
 tags: ["Python", "Tuples"]
 categories: ["Cours Python"]
 description: "Manipulation des collections inaltérables"
+series: ["Apprendre Python"]
+series_order: 10
 ---
 
 **Les Tuples en Python : Les Collections Inaltérables**

@@ -5,6 +5,8 @@ author: "Ayédoun Châ-Fine ADEBI"
 title: "Comprendre et maîtriser with et open en Python"
 tags: ["python", "with", "open"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 30
 ---
 
 # **`with open()` en Python : Gérer les fichiers comme un pro**

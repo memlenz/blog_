@@ -6,6 +6,8 @@ title: 'Le gestionnaire de packet PIP'
 description: "Maîtriser PIP en Python"
 tags: ["Python", "PIP"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 27
 ---
 
 # **PIP en Python : Gérez vos Packages comme un Pro**  

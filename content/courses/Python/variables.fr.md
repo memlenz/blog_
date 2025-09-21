@@ -6,6 +6,8 @@ title: "Variables et commentaires en python"
 description: "Apprenez les variables et commentaires en python"
 tags: ["python", "variables"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 1
 ---
 
 # Les Variables en Python : Le cœur de ton code

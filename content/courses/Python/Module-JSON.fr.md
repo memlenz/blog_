@@ -6,6 +6,8 @@ title: 'Module JSON'
 description: "Maîtriser le module JSON en Python"
 tags: ["Python", "Module", "JSON"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 25
 ---
 
 JSON (*JavaScript Object Notation*) est un format ultra-populaire pour échanger des données. Léger, lisible et facile à parser, il est utilisé partout : API, bases de données, fichiers de configuration... Bref, si vous codez en Python, vous allez souvent bosser avec du JSON.  

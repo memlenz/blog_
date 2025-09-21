@@ -6,6 +6,8 @@ title: 'Module RegEx'
 description: "Maîtriser les RegEx en Python"
 tags: ["Python", "Module", "RegEx"]
 categories: [Cours Python]
+series: ["Apprendre Python"]
+series_order: 26
 ---
 
 # **Les RegEx en Python : Domptez la Puissance des Expressions Régulières**

@@ -6,6 +6,8 @@ title: 'Module Math'
 description: "Maîtriser le module math en Python"
 tags: ["Python", "Math", "Module"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 24
 ---
 
 En programmation, il est fréquent de devoir manipuler des nombres, calculer des racines carrées, arrondir des valeurs ou encore travailler avec des constantes mathématiques comme π (pi). C'est là qu'intervient le module `math` de Python, une boîte à outils ultra pratique pour gérer les calculs numériques sans se casser la tête.

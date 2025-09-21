@@ -6,6 +6,8 @@ title: 'Les exceptions en Python'
 description: "Maîtriser les exceptions en Python"
 tags: ["Python", "Exceptions", "try ... except"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 28
 ---
 
 # **Les Blocs Try/Except en Python : Gérez Vos Erreurs comme un Pro !**

@@ -6,6 +6,8 @@ title: 'Les operateurs en Python'
 description: "Manipuler les valeurs en Python grâce aux opérateurs"
 tags: ["Python", "Opérateurs"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 8
 ---
 
 

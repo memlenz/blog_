@@ -6,6 +6,8 @@ title: 'Les Dates en Python'
 description: "Maîtriser les dates en Python"
 tags: ["Python", "Dates"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 23
 ---
 
 La gestion des dates et des heures est une facette incontournable de la programmation, et Python met à votre disposition des outils puissants pour travailler avec ces données temporelles. Dans cet article, nous allons explorer les bases de la manipulation des dates en Python, en mettant l'accent sur le module intégré `datetime`, ainsi que quelques astuces pratiques pour formater, comparer et transformer vos dates.

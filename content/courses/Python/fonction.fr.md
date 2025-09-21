@@ -6,6 +6,8 @@ title: 'Les fonction en python'
 description: ""
 tags: ["Python", "Fonctions"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 15
 ---
 
 **Les Fonctions en Python : La Clé de l'Efficacité**

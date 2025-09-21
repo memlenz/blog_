@@ -6,6 +6,8 @@ title: 'Polymorphisme'
 description: "Comprendre et Maîtriser le polymorphisme en Python"
 tags: ["Python", "Polymorphisme"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 20
 ---
 
 

@@ -6,6 +6,8 @@ title: 'Les boucles en Python'
 description: "Maîtriser les boucles en python"
 tags: ["Python", "for", "while"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 14
 ---
 
 **Les Structures de Boucles en Python : Reprends le Contrôle de ton Code**

@@ -6,6 +6,8 @@ title: 'Les Modules en Python'
 description: "Maîtriser les modules en Python"
 tags: ["Python", "Modules"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 22
 ---
 
 Python est bien plus qu’un simple langage de programmation : c’est un écosystème où chaque fichier de code peut devenir une brique de votre projet. Pour tous ceux qui veulent écrire un code clair, réutilisable et modulable, les modules Python sont vos meilleurs alliés. Dans cet article, nous allons explorer ce concept essentiel et découvrir comment les modules transforment notre manière de programmer.

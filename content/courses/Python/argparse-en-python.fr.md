@@ -5,6 +5,8 @@ author: "Ayédoun Châ-Fine ADEBI"
 title: "Comprendre et maîtriser argparse en Python"
 tags: ["python", "cli", "argparse"]
 categories: ["Python", "Tutoriels"]
+series: ["Apprendre Python"]
+series_order: 29
 ---
 
 # 🚀 Maîtriser argparse en Python : Guide complet

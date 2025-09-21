@@ -6,6 +6,8 @@ title: "L' Heritage en Python"
 description: "comprendre l'héritage en Python"
 tags: ["Python", "Heritage"]
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 19
 ---
 
 

@@ -6,6 +6,8 @@ title: 'Le casting en Python'
 tags: ["Python", "Casting"]
 description: "Transformez les types avec fluidité"
 categories: ["Cours Python"]
+series: ["Apprendre Python"]
+series_order: 31
 ---
 
 Le casting, ou la conversion de types, en Python, c’est comme jouer au magicien des données. T'as des types différents dans tes variables, et parfois, tu veux les transformer pour qu'ils collent mieux à tes besoins. Pas de souci, Python te permet de faire tout ça de manière ultra simple. Et comme c’est un langage qui aime la flexibilité, le casting devient une des compétences de base pour rendre ton code encore plus fluide et efficace.

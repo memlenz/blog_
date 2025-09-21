@@ -6,6 +6,7 @@ title: "Introduction à Python"
 tags: ["python", "débutant", "introduction"]
 categories: ["Cours Python"]
 description: "Découvrez ce qu'est Python, ses caractéristiques et comment l'installer."
+series: ["Apprendre Python"]
 series_order: 0
 ---
 
