@@ -21,7 +21,11 @@ disableImageOptimization = false
 disableTextInHeader = false
 backgroundImageWidth = 500
 
+<<<<<<< HEAD
 defaultBackgroundImage = "/img/thememlenz.jpg" # used as default for background images 
+=======
+#defaultBackgroundImage = "/img/image_test2.jpg" # used as default for background images 
+>>>>>>> 6239554f3e47fd1c59b9d6f3091b9220831bd587
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
@@ -32,7 +36,11 @@ smartTOCHideUnfocusedChildren = false
 #forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [header]
+<<<<<<< HEAD
 layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+=======
+layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+>>>>>>> 6239554f3e47fd1c59b9d6f3091b9220831bd587
 
 [footer]
 showMenu = true
@@ -42,7 +50,11 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
+<<<<<<< HEAD
 layout = "background" # valid options: page, profile, hero, card, background, custom
+=======
+layout = "page" # valid options: page, profile, hero, card, background, custom
+>>>>>>> 6239554f3e47fd1c59b9d6f3091b9220831bd587
 #  homepageImage = "/img/thememlenz.webp" # used in: hero, and card
 showRecent = true
 showRecentItems = 6
@@ -69,7 +81,11 @@ showDraftLabel = true
 showEdit = false
 # editURL = "https://github.com/username/repo/"
 editAppendPath = true
+<<<<<<< HEAD
 seriesOpened = true
+=======
+seriesOpened = false
+>>>>>>> 6239554f3e47fd1c59b9d6f3091b9220831bd587
 showHeadingAnchors = true
 showPagination = true
 invertPagination = true
