@@ -47,10 +47,10 @@ layout = "background" # valid options: page, profile, hero, card, background, cu
 showRecent = true
 showRecentItems = 6
 showMoreLink = true
-showMoreLinkDest = "/courses/"
+showMoreLinkDest = "/blog/"
 cardView = true
 cardViewScreenWidth = false
-layoutBackgroundBlur = true    # only used when layout equals background
+layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
 showDate = false
@@ -64,7 +64,7 @@ showHero = false
 # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
 layoutBackgroundBlur = true        # only used when heroStyle equals background or thumbAndBackground
 layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-showBreadcrumbs = false
+showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
 # editURL = "https://github.com/username/repo/"
@@ -81,7 +81,7 @@ showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = true
 # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
-showZenMode = true
+showZenMode = false
 
 [list]
 showHero = true
